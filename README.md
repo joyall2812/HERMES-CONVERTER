@@ -57,13 +57,10 @@ Hermes is a powerful currency converter web app built with Streamlit and powered
 3. Explore real-time exchange rates and historical data.
 4. Select a currency to view a detailed table of exchange rates.
 
-## Contribution
-
-Contributions are welcome! Check out the [Contribution Guidelines](CONTRIBUTING.md) to get started.
 
 ## Support and Feedback
 
-For support, bug reports, or feature requests, please open an [issue](https://github.com/your-username/hermes-currency-converter/issues). Your feedback is highly appreciated.
+For support, bug reports, or feature requests, please open an [issue](https://github.com/joyall2812/HERMES-CONVERTER/issues). Your feedback is highly appreciated.
 
 ## License
 
@@ -73,5 +70,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for choosing Hermes Currency Converter! 🚀 If you find it useful, don't forget to give it a ⭐️!
 
-[GitHub Repository](https://github.com/your-username/hermes-currency-converter)
+[GitHub Repository](https://github.com/joyall2812/HERMES-CONVERTER)
 
