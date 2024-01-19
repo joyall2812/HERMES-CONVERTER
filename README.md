@@ -40,7 +40,7 @@ Hermes is a powerful currency converter web app built with Streamlit and powered
 
 ## Demo
 
-![Hermes Currency Converter Demo](demo.gif)
+![Hermes Currency Converter Demo](https://hermes-converter-joyalll.streamlit.app/)
 
 ## Dependencies
 
