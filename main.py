@@ -13,7 +13,7 @@ c=CurrencyRates()
 #setting page configurations
 st.set_page_config(page_title='HERMES',page_icon='🧭',layout='wide',initial_sidebar_state="collapsed")
 #currency converter
-st.image('https://github.com/joyall2812/StreamLit_projects/blob/main/images/HERMES%20CONVERTER-logos_white_cropped.png?raw=true',use_column_width=True)
+st.image('https://github.com/joyall2812/HERMES-CONVERTER/blob/main/images/HERMES%20CONVERTER-logos_white_cropped.png?raw=true',use_column_width=True)
 
 #setting up menu
 #selected=option_menu(menu_title='main menu',menu_icon='Bank',options=['home','currency converter','exchange rates'],orientation='horizontal',icons=['home','arrow-repeat','arrow-up-right-circle-fill'])
