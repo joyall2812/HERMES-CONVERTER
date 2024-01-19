@@ -2,7 +2,7 @@
 
 Welcome to Hermes, your ultimate destination for seamless currency conversion and exchange rate information.
 
-![Hermes Logo](your-logo-url)
+![Hermes Logo](images/HERMES CONVERTER-logos_white_cropped.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -23,7 +23,7 @@ Hermes is a powerful currency converter web app built with Streamlit and powered
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/hermes-currency-converter.git
+    git clone https://github.com/joyall2812/HERMES-CONVERTER
     ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ Hermes is a powerful currency converter web app built with Streamlit and powered
 3. Run the app:
 
     ```bash
-    streamlit run hermes_converter.py
+    streamlit run main.py
     ```
 
 ## Demo
