@@ -2,7 +2,7 @@
 
 Welcome to Hermes, your ultimate destination for seamless currency conversion and exchange rate information.
 
-![Hermes Logo](images/HERMES CONVERTER-logos_white_cropped.png)
+![Hermes Logo](https://github.com/joyall2812/HERMES-CONVERTER/blob/main/images/HERMES%20CONVERTER-logos_white_cropped.png?raw=true)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
